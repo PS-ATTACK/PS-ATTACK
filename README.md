@@ -6,5 +6,5 @@
 (선택) [Kakao 오픈채팅방](https://open.kakao.com/o/gZeZhE4h)
 
 ## 멤버
-* [tecte1023](https://github.com/tecte1023/ps-attack-old): [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=tecte1023)](https://solved.ac/tecte1023/)
+* [tecte1023](https://github.com/tecte1023): [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=tecte1023)](https://solved.ac/tecte1023/)
 * [su8y](https://github.com/su8y): [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=suby00)](https://solved.ac/suby00/)
